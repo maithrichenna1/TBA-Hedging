@@ -53,11 +53,3 @@ if __name__ == "__main__":
     print("Optimal Hedge Ratio:", hedge_ratio)
 ```
 
-## Next Steps
-- Expand dataset with real historical TBA and MSR data.
-- Implement risk-adjusted return analysis.
-- Add backtesting functionality for different hedge strategies.
-
----
-This is the initial framework. Let me know if you need modifications or additional features!
-
